@@ -1,5 +1,6 @@
 # Required dependencies
 
+* CLang
 * CMake
 * Conan
 
